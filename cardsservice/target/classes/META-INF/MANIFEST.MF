@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Swaggerdemo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Ashok
+Implementation-Vendor-Id: com.boarding.card
+Build-Jdk: 1.8.0
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/cardsservice
+Created-By: Maven Integration for Eclipse
+

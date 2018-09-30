@@ -1,0 +1,5 @@
+com\boarding\card\controller\CardController.class
+com\boarding\card\config\SwaggerConfig.class
+com\boarding\card\SwaggerdemoApplication.class
+com\boarding\card\cardrepository\CardRepository.class
+com\boarding\card\model\Card.class
